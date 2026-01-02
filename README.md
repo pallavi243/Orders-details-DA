@@ -8,7 +8,7 @@ Power Query (Data Cleaning & Transformation)
 Interactive Visualizations
 Features / Highlights
 1. Business Problem
-   Businesses often struggle to track sales performance, identify top-selling products, and understand order trends due to       scattered or raw data.
+   Businesses often struggle to track sales performance, identify top-selling products, and understand order trends due to scattered or raw data.
 2. Goal of the Dashboard
 (a) Monitor overall sales and order performance
 (b)Identify top products and high-value orders
