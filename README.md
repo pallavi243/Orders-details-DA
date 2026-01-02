@@ -11,7 +11,7 @@ Interactive Visualizations
 
 Features / Highlights
 1. Business Problem
-   Businesses often struggle to track sales performance, identify top-selling products, and understand order trends due to scattered or raw data.
+   Businesses often struggle to track sales performance, identify top-selling products, and understand order trends due to       scattered or raw data.
 
 2. Goal of the Dashboard
 (a) Monitor overall sales and order performance
@@ -32,3 +32,5 @@ Features / Highlights
 (b)Improves sales monitoring and reporting efficiency
 (c)Supports strategic decisions like inventory planning and revenue optimization
 (d)Transforms raw data into meaningful, actionable insights
+Screenshots and Demos:
+Links: https://github.com/pallavi243/Orders-details-DA/blob/main/Screenshot%202026-01-01%20230030.png
