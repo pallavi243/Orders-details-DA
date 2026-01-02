@@ -1,4 +1,3 @@
-Project Title:
 Sales & Orders Analysis Dashboard using Power BI
 Description about the Project :
 An interactive Power BI dashboard built to analyze orders and order-details data, providing insights into sales performance, product trends, and customer behavior to support data-driven business decisions.
